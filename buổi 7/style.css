@@ -1,0 +1,16 @@
+#concho{
+      color:hsl(from  h s l); 
+      font-size: 30px;
+      text-align: center;
+      background-color: yellow;   
+        border: 2px solid black;
+        border-style: groove;
+}
+.conmeo{
+        color: hsl(from  h s l); 
+        font-size: 30px;
+        text-align: center;
+     background-color: pink;   
+            border: 2px solid black;
+            border-style: groove;       
+}
